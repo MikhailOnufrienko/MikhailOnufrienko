@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mikhail (or Michael).
-- 👀 I’m interested in Python development (Django, Flask, FastAPI etc.).
-- 🌱 I’m currently learning everything I mentioned above.
-- 📫 How to reach me: ghast13@yandex.com
+- 👋 Hi, I’m Mikhail, a junior python developer.
+- 👀 My aim is to become a high-skilled backend developer.
+- 🌱 Currently I'm focused on the following stack: Django, FastAPI, SQLAlchemy, Redis, Docker, Pytest, Elasticsearch.
+- 📫 How to reach me: ghast13@yandex.ru.
 
 <!---
 MikhailOnufrienko/MikhailOnufrienko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
